@@ -182,7 +182,7 @@ For more detailed documentation on how the tool works and how to use it, see our
 # Appreciation
 
 Core libraries used:
-* [demucs](https://github.com/facebookresearch/demucs) to separate vocals from the audio
+* [Audio Separator](https://github.com/nomadkaraoke/python-audio-separator.git) to separate vocals from the audio
 * [pyannote-audio](https://github.com/pyannote/pyannote-audio) to diarize speakers
 * [faster-whisper](https://github.com/SYSTRAN/faster-whisper) for audio to speech
 * [NLLB-200](https://github.com/facebookresearch/fairseq/tree/nllb) for machine translation
